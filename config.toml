@@ -1,0 +1,5 @@
+[repository]
+REGISTRY_NAME = "scditech"
+REPOSITORY_NAME = "somes-domino-pieces"
+REPOSITORY_LABEL = "SoMES - Self Optimizing Microgrid Energy Scheduler"
+VERSION = "0.1.0"
