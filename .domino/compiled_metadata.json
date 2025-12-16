@@ -77,7 +77,7 @@
             "type": "object"
         },
         "secrets_schema": null,
-        "source_url": "https://github.com/scditech/somes-domino-pieces/tree/main/pieces/PreprocessSolargisPiece"
+        "source_url": "https://github.com/filipchrvala/somes-domino-pieces/tree/main/pieces/PreprocessSolargisPiece"
     },
     "EvaluateAndPlotPiece": {
         "name": "EvaluateAndPlotPiece",
@@ -181,7 +181,7 @@
             "type": "object"
         },
         "secrets_schema": null,
-        "source_url": "https://github.com/scditech/somes-domino-pieces/tree/main/pieces/EvaluateAndPlotPiece"
+        "source_url": "https://github.com/filipchrvala/somes-domino-pieces/tree/main/pieces/EvaluateAndPlotPiece"
     },
     "TrainXGBoostPiece": {
         "name": "TrainXGBoostPiece",
@@ -271,7 +271,7 @@
             "type": "object"
         },
         "secrets_schema": null,
-        "source_url": "https://github.com/scditech/somes-domino-pieces/tree/main/pieces/TrainXGBoostPiece"
+        "source_url": "https://github.com/filipchrvala/somes-domino-pieces/tree/main/pieces/TrainXGBoostPiece"
     },
     "RegisterModelPiece": {
         "name": "RegisterModelPiece",
@@ -359,7 +359,7 @@
             "type": "object"
         },
         "secrets_schema": null,
-        "source_url": "https://github.com/scditech/somes-domino-pieces/tree/main/pieces/RegisterModelPiece"
+        "source_url": "https://github.com/filipchrvala/somes-domino-pieces/tree/main/pieces/RegisterModelPiece"
     },
     "FetchSolargisDataPiece": {
         "name": "FetchSolargisDataPiece",
@@ -435,7 +435,7 @@
             "type": "object"
         },
         "secrets_schema": null,
-        "source_url": "https://github.com/scditech/somes-domino-pieces/tree/main/pieces/FetchSolargisDataPiece"
+        "source_url": "https://github.com/filipchrvala/somes-domino-pieces/tree/main/pieces/FetchSolargisDataPiece"
     },
     "RunSolarForecastPiece": {
         "name": "RunSolarForecastPiece",
@@ -527,7 +527,7 @@
             "type": "object"
         },
         "secrets_schema": null,
-        "source_url": "https://github.com/scditech/somes-domino-pieces/tree/main/pieces/RunSolarForecastPiece"
+        "source_url": "https://github.com/filipchrvala/somes-domino-pieces/tree/main/pieces/RunSolarForecastPiece"
     },
     "NotifyTeamPiece": {
         "name": "NotifyTeamPiece",
@@ -610,6 +610,6 @@
             "type": "object"
         },
         "secrets_schema": null,
-        "source_url": "https://github.com/scditech/somes-domino-pieces/tree/main/pieces/NotifyTeamPiece"
+        "source_url": "https://github.com/filipchrvala/somes-domino-pieces/tree/main/pieces/NotifyTeamPiece"
     }
 }
